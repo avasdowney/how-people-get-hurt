@@ -8,6 +8,10 @@ To find trends that may help to combat these issues, I will create a correlation
 ## Data Source
 This project uses a dataset from Kaggle called [How People Get Hurt](https://www.kaggle.com/jpmiller/how-people-get-hurt) which details demographics about who ends up in the Emergency Department, as well as why they are there. This dataset is compiled from the National Electronic Injury Surveillance System (NEISS) and includes data from January 1, 2016, to December 31, 2020.
 
+## How to run project
+1. Fork repo and clone into local dir
+1. Install all requirements using `pip install -r requirements`
+
 ## License
 Copyright © 2021
 
