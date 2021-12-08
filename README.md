@@ -11,5 +11,5 @@ This project uses a dataset from Kaggle called [How People Get Hurt](https://www
 ## How to run project
 1. Fork repo and clone into local dir
 1. Download dataset and convert from .txt to .csv file using excel or similar program, saving to datasets folder
-1. Install all requirements using `pip install -r requirements`
+1. Install all requirements using `pip install -r requirements.txt`
 1. Run Jupyter Notebook cells for different algorithms
