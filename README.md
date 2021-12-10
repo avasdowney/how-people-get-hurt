@@ -11,3 +11,6 @@ This project uses a dataset from Kaggle called [How People Get Hurt](https://www
 1. Download dataset and convert from .txt to .csv file using excel or similar program, saving to datasets folder
 1. Install all requirements using `pip install -r requirements.txt`
 1. Run Jupyter Notebook cells for different algorithms
+
+## Paper on dataset findings
+My findings are presented in my term paper titled [*Investigating Emergency Department Statistics to Prevent Hospitalizations*](https://github.com/avasdowney/how_people_get_hurt/blob/main/Term%20Paper.pdf). 
